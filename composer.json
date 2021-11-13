@@ -2,13 +2,13 @@
     "name": "quocphongdn/laravel-otp",
     "type": "library",
     "license": "MIT",
-    "version": "2.0",
     "authors": [
         {
             "name": "Michael Okoh",
             "email": "michael@okoh.co.uk"
         }
     ],
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Ichtrojan\\Otp\\": "src/"
