@@ -1,9 +1,9 @@
 <?php
 
-namespace Ichtrojan\Otp;
+namespace Quocphongdn\Otp;
 
 use Carbon\Carbon;
-use Ichtrojan\Otp\Models\Otp as Model;
+use Quocphongdn\Otp\Models\Otp as Model;
 
 class Otp
 {

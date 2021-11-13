@@ -1,6 +1,6 @@
 <?php
 
-namespace Ichtrojan\Otp;
+namespace Quocphongdn\Otp;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -26,7 +26,7 @@ class OtpServiceProvider extends ServiceProvider
         $this->loadMigrationsFrom(__DIR__ . '/database/migrations');
 
         $this->commands([
-            \Ichtrojan\Otp\Commands\CleanOtps::class,
+            \Quocphongdn\Otp\Commands\CleanOtps::class,
         ]);
     }
 }

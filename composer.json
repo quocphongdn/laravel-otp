@@ -1,5 +1,5 @@
 {
-    "name": "ichtrojan/laravel-otp",
+    "name": "quocphongdn/laravel-otp",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -11,16 +11,16 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Ichtrojan\\Otp\\": "src/"
+            "Quocphongdn\\Otp\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Ichtrojan\\Otp\\OtpServiceProvider"
+                "Quocphongdn\\Otp\\OtpServiceProvider"
             ],
             "aliases": {
-                "Otp": "Ichtrojan\\Otp\\Support\\Facades\\Otp"
+                "Otp": "Quocphongdn\\Otp\\Support\\Facades\\Otp"
             }
         }
     },
