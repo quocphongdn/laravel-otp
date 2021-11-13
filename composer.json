@@ -2,6 +2,7 @@
     "name": "quocphongdn/laravel-otp",
     "type": "library",
     "license": "MIT",
+    "version": "2.0",
     "authors": [
         {
             "name": "Michael Okoh",
