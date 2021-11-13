@@ -1,6 +1,6 @@
 <?php
 
-namespace Quocphongdn\Otp\Models;
+namespace Ichtrojan\Otp\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

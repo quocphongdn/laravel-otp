@@ -1,6 +1,6 @@
 <?php
 
-namespace Quocphongdn\Otp\Support\Facades;
+namespace Ichtrojan\Otp\Support\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

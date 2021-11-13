@@ -11,16 +11,16 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Quocphongdn\\Otp\\": "src/"
+            "Ichtrojan\\Otp\\": "src/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Quocphongdn\\Otp\\OtpServiceProvider"
+                "Ichtrojan\\Otp\\OtpServiceProvider"
             ],
             "aliases": {
-                "Otp": "Quocphongdn\\Otp\\Support\\Facades\\Otp"
+                "Otp": "Ichtrojan\\Otp\\Support\\Facades\\Otp"
             }
         }
     },

@@ -1,8 +1,8 @@
 <?php
 
-namespace Quocphongdn\Otp\Commands;
+namespace Ichtrojan\Otp\Commands;
 
-use Quocphongdn\Otp\Models\Otp;
+use Ichtrojan\Otp\Models\Otp;
 use Illuminate\Console\Command;
 
 class CleanOtps extends Command
