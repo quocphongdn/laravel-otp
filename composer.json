@@ -8,7 +8,8 @@
             "email": "michael@okoh.co.uk"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "Ichtrojan\\Otp\\": "src/"
